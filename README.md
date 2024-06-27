@@ -23,4 +23,3 @@ Key Features:
 Game Modes:
 
       Support multiplayer mode where two players can play against each other on the same device.
-    Implement a single-player mode where players can compete against an AI opponent with varying difficulty levels.
