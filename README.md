@@ -2,7 +2,7 @@ Project Name: Tic-Tac-Toe Web Application
 
 Description:
 
-    Create a classic and interactive Tic-Tac-Toe game using HTML, CSS, and JavaScript. This web development project aims to deliver a user-friendly and engaging experience where players can enjoy the timeless strategy game online.
+    Create a classic and interactive Tic-Tac-Toe game using HTML, CSS, and JavaScript. This web development project aims to deliver a user-friendly and engaging experience where players can enjoy the timeless strategy game.
 
 Key Features:
 
